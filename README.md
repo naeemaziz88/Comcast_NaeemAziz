@@ -64,6 +64,9 @@ player.addAnalyticsListener(new AnalyticsListener() {
             
 5. Screenshot:
 <img src="https://user-images.githubusercontent.com/116047657/196321231-17cd8f1e-8e37-4c5a-8098-7c411a1b16ec.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/116047657/196322474-048008ef-c5d0-41a6-8e2b-d19f4f06fa5b.png" width="600" height="400" />
+
+
 
 
 
