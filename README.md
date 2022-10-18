@@ -68,5 +68,8 @@ player.addAnalyticsListener(new AnalyticsListener() {
 
 
 
+6. Video:
+
+https://user-images.githubusercontent.com/116047657/196322770-527884b4-3037-4178-aed2-4a7b4b52d16c.mp4
 
 
