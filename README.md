@@ -6,7 +6,7 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_
 2.To create the UI, I also used dummy API to fetch the data from server and populate it. (MVVM approach)
 https://livesocceherobucket.s3.eu-west-2.amazonaws.com/interview/demoapp.json
 
-3. Created the interface to capture to log the events.
+3.Created the interface to capture to log the events.
 
 public interface IAnalytics {
 
@@ -21,6 +21,7 @@ public interface IAnalytics {
 }
 
 4. using  AnalyticsManager to log the events
+*
 player.addAnalyticsListener(new AnalyticsListener() {
                 @Override
                 public void onPlaybackStateChanged(EventTime eventTime, int playbackState) {
