@@ -63,6 +63,6 @@ player.addAnalyticsListener(new AnalyticsListener() {
             });
             
 5. Screenshot:
-![MainScreen](https://user-images.githubusercontent.com/116047657/196321231-17cd8f1e-8e37-4c5a-8098-7c411a1b16ec.png)
+![MainScreen](https://user-images.githubusercontent.com/116047657/196321231-17cd8f1e-8e37-4c5a-8098-7c411a1b16ec.png width="100" height="100")
 
 
